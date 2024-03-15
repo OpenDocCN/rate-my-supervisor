@@ -1,7 +1,6 @@
 # 导师评价网备份
 
-* [在线阅读](https://rms.apachecn.org)
-* [在线阅读（Vercel）](https://rate-my-supervisor-1.vercel.app/)
+* [在线阅读](https://rms.flygon.net)
 
 ## 下载
 
